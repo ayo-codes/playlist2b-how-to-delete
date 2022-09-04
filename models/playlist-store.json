@@ -1,0 +1,82 @@
+{
+  "playlistCollectionJSON": [
+    {
+      "pid": "01",
+      "pltitle": "Beethoven Sonatas",
+      "pduration": "15",
+      "songs": [
+        {
+          "sid": "01",
+          "stitle": "Piano Sonata No.3JSON",
+          "sartist": "Beethoven",
+          "genre": "Classical",
+          "sduration": "5"
+          
+        },
+        {
+          "sid": "02",
+          "stitle": "Piano Sonata No.7",
+          "sartist": "Beethoven",
+          "genre": "Classical",
+          "sduration": "6"
+        },
+        {
+          "sid": "03",
+          "stitle": "Piano Sonatas No.11",
+          "sartist": "Beethoven",
+          "genre": "Classical",
+          "sduration": "4"
+        }
+      ]
+    },
+    {
+      "pid": "02",
+      "pltitle": "Beethoven Concertos",
+      "pduration": "18",
+      "songs": [
+        {
+          "sid": "04",
+          "stitle": "Piano Concerto No 0",
+          "sartist": "Beethoven",
+          "genre": "Classical",
+          "sduration": "6"
+        },
+        {
+          "sid": "05",
+          "stitle": "Piano Concerto NO 4",
+          "sartist": "Beethoven",
+          "genre": "Classical",
+          "sduration": "7"
+        },
+        {
+          "sid": "06",
+          "stitle": "Piano Concerto no 4",
+          "sartist": "Beethoven",
+          "genre": "Classical",
+          "sduration": "5"
+        }
+      ]
+    },
+    {
+      "pid": "03",
+      "pltitle": "Drake Songs",
+      "pduration": "20",
+      "songs": [
+        {
+          "sid": "07",
+          "stitle": "God's Plan",
+          "sartist": "Drake",
+          "genre": "Hip-Hop",
+          "sduration":"15"
+        },
+        {
+          "sid": "08",
+          "stitle": "One thing",
+          "sartist": "Drake",
+           "genre": "Hip-Hop",
+          "sduration":"5"
+        }
+      ]
+    }
+  ]
+}
